@@ -1,5 +1,6 @@
 [global]
 server_name = "bot-1792599757-6833-chameleon63.bothost.tech"
+address = "0.0.0.0"
 database_backend = "sqlite"
 database_path = "/var/lib/matrix-conduit"
 port = 10000
