@@ -1,0 +1,8 @@
+[global]
+server_name = "my-chat.bothost.tech"
+database_backend = "sqlite"
+database_path = "/var/lib/matrix-conduit"
+port = 10000
+max_request_size = 20000000
+allow_registration = true
+allow_federation = true
