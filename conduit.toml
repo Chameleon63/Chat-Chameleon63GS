@@ -1,5 +1,5 @@
 [global]
-server_name = "my-chat.bothost.tech"
+server_name = "bot-1792599757-6833-chameleon63.bothost.tech"
 database_backend = "sqlite"
 database_path = "/var/lib/matrix-conduit"
 port = 10000
